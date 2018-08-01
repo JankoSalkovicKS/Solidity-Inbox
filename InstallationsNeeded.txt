@@ -1,0 +1,33 @@
+///////////////////////////////////////////////////////
+/*
+    Important steps for our Smart Contract project to work
+*/
+
+...
+=> Initialize Node project
+    -commands:
+        1. create folder
+        2. position to it
+        3. npm init
+
+=> Mocha-testing, GanacheClient-virtual provider and Ethereum network, 
+   web3-JavaScript representation of the Smart Contract
+        - commands: 
+            npm install --save mocha ganache-cli web3@1.0.0-beta.26 
+
+=> Mocha testing
+        - commands:
+            npm run test
+=> Create the Infura account
+        - Infura is the 'portal' to access ethereum networks
+        - commands:
+            infura.io
+
+=> Truffle - provider to connect to 
+        - commands:
+            npm install --save truffle-hdwallet-provider@0.0.3
+
+=> Rinkeby EtherScan
+        -
+        -adresa:
+            https://rinkeby.etherscan.io/
