@@ -3,7 +3,8 @@
     Important steps for our Smart Contract project to work
 */
 
-...
+// this tutorial will get bigger over time
+
 => Initialize Node project
     -commands:
         1. create folder

@@ -1,0 +1,6 @@
+//////////////////////////////////////////////////////////
+/*
+    Inbox smart contract
+*/
+
+- basic hello world Smart Contract for Ethereum
